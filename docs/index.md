@@ -1,6 +1,6 @@
 # Final Cut Pro 学习
 
-好记性不如烂笔头，记录学习 Final Cut Pro 的点滴的同时配合更多练习，熟练掌握这门视频剪辑技术。
+好记性不如烂笔头，记录学习 Final Cut Pro 的点滴的同时配合更多练习，熟练掌握 Final Cut Pro 视频剪辑技术。
 
 
 
