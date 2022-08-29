@@ -1,1 +1,1 @@
-# Final cut pro 学习
+# Final Cut Pro 学习
