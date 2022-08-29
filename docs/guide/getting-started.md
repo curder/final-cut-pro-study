@@ -8,6 +8,8 @@
 
 它目前只能在 MacOS 系统上使用。
 
+![Final Cut Pro](https://user-images.githubusercontent.com/8327004/187150784-427215d6-bc1d-4ed7-bd6e-53737ad9e1f4.png)
+
 ## 一些特性
 
 ### 磁性时间线
