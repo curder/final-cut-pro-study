@@ -7,7 +7,6 @@
 ## 官方文档
 
 - [Final Cut Pro 使用手册](https://support.apple.com/zh-cn/guide/final-cut-pro/welcome)
-
 - [Final Cut Pro 使用手册 PDF 英文版](https://help.apple.com/pdf/final-cut-pro/en_US/final-cut-pro-user-guide.pdf)
 
 
